@@ -1,0 +1,2 @@
+# results/
+Test Çıktılarını barındırır
