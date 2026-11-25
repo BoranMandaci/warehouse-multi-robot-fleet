@@ -5,6 +5,7 @@
   2. Ege Başaran 032490020
   3. Enes Çelik 032490030
   4. Boran Mandacı 032490057
+  5. Can Karakoç 032390031
 
 # Proje Hakkında
 
