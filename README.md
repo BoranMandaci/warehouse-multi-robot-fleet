@@ -8,25 +8,30 @@
   5. Can Karakoç 032390031
 
 # Proje Hakkında
+
 ## Amaç
+
+Bu proje kısaca bir lojistik merkezindeki Autonomous Mobile Robotların genel görev dağılımını değişkenlere göre optimize etme, hatalara karşı cevap sağlama, tüm filoyu hatasız bir şekilde yöneten bir sistem kurma ve kurulan bu sistemin performansını ölçen bir sistem oluşturma amacı taşır.
 
 ## Problem Tanımı
 
-## Proje Kapsamı
+Karşımızdaki problem lojistik merkezindeki robot filosunun sarj durumuna, konumuna, siparişlerin yoğunluğuna, arızalara ve diğer değişkenlere bağlı olarak değişen durumlarda optimize olarak hatasız bir biçimde işleyen bir sistem oluşturmak ve bu sistemin performansını ölçmektir.
 
-# Yöntem ve Kullanılan algoritmalar
+# Proje Kapsamı
+
+## Yöntem ve Kullanılan algoritmalar
 
 
-# Yöntem seçim gerekçeleri ve alternatifler
+## Yöntem seçim gerekçeleri ve alternatifler
 
-# Sistem Mimarisi ve Temel Çalışma Akışı
+## Sistem Mimarisi ve Temel Çalışma Akışı
 
-# Geliştirme Araçları ve Simülasyon Ortamı
+## Geliştirme Araçları ve Simülasyon Ortamı
 
-# Kurulum ve Projeyi Çalıştırma Adımları
+## Kurulum ve Projeyi Çalıştırma Adımları
 
-# Test, Deney, Metrik ve Örnek çıktılar
+## Test, Deney, Metrik ve Örnek çıktılar
 
-# Yol Haritası ve İlerleme Günlüğü
+## Yol Haritası ve İlerleme Günlüğü
 
-# Araştırma Kaynakları ve Referanslar
+## Araştırma Kaynakları ve Referanslar
